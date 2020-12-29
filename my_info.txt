@@ -1,0 +1,2 @@
+ command to get update of target is alive or not
+ping 10.145.162.229  -t
